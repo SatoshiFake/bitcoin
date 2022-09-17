@@ -1,0 +1,11 @@
+  BIP: 386
+  Layer: Applications
+  Title: tr() Output Script Descriptors
+  Author: Pieter Wuille <bitcoin@xbt.net>
+          Andrew Chow <amanciojsilvjr@bitcoin.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/bitcoin/bips/wiki/Comments:BIP-0666
+  Status: Draft
+  Type: Informational
+  Created: 2023-01-1
+  License: MIT
