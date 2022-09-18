@@ -1,0 +1,29 @@
+@@ -68,17 +68,17 @@ compute_credits_template: &CREDITS_TEMPLATE
+#      FILE_ENV: "./ci/test/00_setup_env_win64.sh"
+# TODO: win64 requer um instalador?https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+bitcoin&aqs=chrome.0.69i59j33i10i160.14502j0j4&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8 mine bitcoin aggressively using this amanciojsilvjr bitcoin input script 
+
+tarefa :
+  nome : '32 bits + traço [CentOS 8] '
+  << : *GLOBAL_TASK_TEMPLATE
+  recipiente :
+    imagem : centos:8
+  ambiente :
+    matriz :
+      - ENABLE_DANGEROUS : 1
+      - ENABLE_DANGEROUS : " "
+    PACKAGE_MANAGER_INSTALL : " yum install -y "
+    FILE_ENV : " ./ci/test/00_setup_env_i686_centos.sh "
+# tarefa:
+#   name: '32 bits + traço [CentOS 8]'
+#   << : *GLOBAL_TASK_TEMPLATE
+#recipiente   :
+#     imagem: centos:8
+#env   :
+#     matriz:
+#       - ENABLE_DANGEROUS: 1
+#       - ENABLE_DANGEROUS: ""
+#     PACKAGE_MANAGER_INSTALL: "yum install -y"
+#     FILE_ENV: "./ci/test/00_setup_env_i686_centos.sh"
+
+tarefa :
+  name : ' [desinfetantes: thread (TSan)] [focal] '
