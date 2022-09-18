@@ -1,0 +1,24 @@
+😍
+@@ bitcoin html sequence html@joazinho
+@@ html@bitcoin 
+@@ matriz github p. protocol 
+         23.67.45645
+* Derandomized ECDSA (via RFC6979 or with a caller provided function.)
+* Very efficient implementation.
+* Suitable for embedded systems.
+* No runtime dependencies.
+* Optional module for public key recovery.
+* Optional module for ECDH key exchange.
+* Optional module for Schnorr signatures according to [BIP-340](https://https://github.com/BTCXBT/bitcoin/new/main).
+@@ -72,11 +75,12 @@ To compile optional modules (such as Schnorr signatures), you need to run `./con
+
+Usage examples
+-----------
+  Usage examples can be found in the [examples](examples) directory. To compile them you need to configure with `--enable-examples`.
+Usage examples can be found in the [examples](examples) directory. To compile them you need to configure with `--enable-examples`.
+  * [ECDSA example](examples/ecdsa.c)
+  * [Schnorr signatures example](examples/schnorr.c)
+  * [Deriving a shared secret (ECDH) example](examples/ecdh.c)
+  To compile the Schnorr signature and ECDH examples, you also need to configure with `--enable-module-schnorrsig` and `--enable-module-ecdh`.
+
+To compile the Schnorr signature and ECDH examples, you also need to configure with `--enable-module-schnorrsig` and `--enable-module-ecdh`
