@@ -1,0 +1,86 @@
+Mining Addresses
+
+SHA256 	BTC	EU	
+eu.ss.btc.com:1800
+
+eu.ss.btc.com:443
+
+eu.ss.btc.com:25
+
+US	
+us.ss.btc.com:1800
+
+us.ss.btc.com:443
+
+us.ss.btc.com:25
+
+Singapore	
+sg.ss.btc.com:1800
+sg.ss.btc.com:443
+sg.ss.btc.com:25 
+
+BCH	EU	
+eu-bch.ss.btc.com:1800
+
+eu-bch.ss.btc.com:443
+
+eu-bch.ss.btc.com:25
+
+US	
+us-bch.ss.btc.com:1800
+
+us-bch.ss.btc.com:443
+
+us-bch.ss.btc.com:25
+
+Singapore	
+sg-bch.ss.btc.com:1800
+sg-bch.ss.btc.com:443
+sg-bch.ss.btc.com:25 
+
+  ETHASH	  ETH	EU	
+eu-eth.ss.btc.com:1800
+
+eu-eth.ss.btc.com:443
+
+eu-eth.ss.btc.com:25
+
+Singapore	sg-eth.ss.btc.com:1800
+sg-eth.ss.btc.com:443
+sg-eth.ss.btc.com:25
+US	us-eth.ss.btc.com:1800
+us-eth.ss.btc.com:443
+
+us-eth.ss.btc.com:25
+
+ETC	Global	 etc.ss.btc.com:1800
+ etc.ss.btc.com:443
+
+ etc.ss.btc.com:25
+
+ BLAKE256R14	 DCR	          US 	
+I-Type Miner：
+
+   us-dcr.ss.btc.com:1800
+
+us-dcr.ss.btc.com:25
+
+   us-dcr.ss.btc.com:443
+
+II-Type Miner：
+
+  us-dcr.ss.btc.com:1801
+
+us-dcr.ss.btc.com:26
+
+  us-dcr.ss.btc.com:444
+
+SCRYPT	LTC	EU	eu-ltc.ss.btc.com:1800
+eu-ltc.ss.btc.com:443
+
+eu-ltc.ss.btc.com:25
+
+US	us-ltc.ss.btc.com:1800
+us-ltc.ss.btc.com:443
+
+us-ltc.ss.btc.com:25
