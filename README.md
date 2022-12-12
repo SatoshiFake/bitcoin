@@ -19,8 +19,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatoshiFake&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatoshiFake&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github&count_private=true)
 
 ## Stack
 ![Bitcoin](https://img.shields.io/badge/bitcoin-johhny?style=for-the-badge&logo=bitcoin&logoColor=white)
